@@ -1,33 +1,4 @@
 {
-  "title": "",
-  "description": "”    
-
-",
-  "artist": "",
-  "author": "ChyChy",
-  "cover": "https://imgur.com/a/KZ3jKTF",
-  "chapters": {
-    "0 - Tanıtım": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
-      "groups": {
-        "": "/proxy/api/imgur/chapter//"
-      },
-      "last_updated": "1623969510"
-    },
-  "1": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
-      "groups": {
-        "Luna Scans TR": "/proxy/api/imgur/chapter//" 
-      },
-      "last_updated": ""
-       }
-  }
-}
-
-
-{
   "title": "Gorani Jeon",
   "description": "“Benimle çiftleşir misin?” Dağın derinliklerinde, tarlasında pirinç şarabı yapan Bau adında güzel bir genç adam yaşarmış. Dağ Tanrısı'na iyi bir eş için dua eder. Ancak karşılığında aldığı tek şey, değerli tarlasını yok eden su geyiğinin izleri olur. Bir gün Bau, kırılmış bir şarap testisinin önünde bilinçsizce yatan koyu ve sert tenli, muazzam kaslara ve çıkıntılı sivri dişlere sahip büyüleyici bir adam bulur. O anda anlar: “Sonunda, Dağ Tanrısı bana iyi bir partner verdi! Hadi eve gidelim, eşim!",
   "artist": "ChyChy",
