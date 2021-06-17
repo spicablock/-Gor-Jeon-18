@@ -1,9 +1,9 @@
 {
-  "title": "Gorani Jeon",
-  "description": "“Benimle çiftleşir misin?” Dağın derinliklerinde, tarlasında pirinç şarabı yapan Bau adında güzel bir genç adam yaşarmış. Dağ Tanrısı'na iyi bir eş için dua eder. Ancak karşılığında aldığı tek şey, değerli tarlasını yok eden su geyiğinin izleri olur. Bir gün Bau, kırılmış bir şarap testisinin önünde bilinçsizce yatan koyu ve sert tenli, muazzam kaslara ve çıkıntılı sivri dişlere sahip büyüleyici bir adam bulur. O anda anlar: “Sonunda, Dağ Tanrısı bana iyi bir partner verdi! Hadi eve gidelim, eşim!”    
+  "title": "",
+  "description": "”    
 
 ",
-  "artist": "ChyChy",
+  "artist": "",
   "author": "ChyChy",
   "cover": "https://imgur.com/a/KZ3jKTF",
   "chapters": {
@@ -11,7 +11,7 @@
       "title": "<chapter name>",
       "volume": "<volume number>",
       "groups": {
-        "Luna Scans TR": "/proxy/api/imgur/chapter/9OEcj8T/"
+        "": "/proxy/api/imgur/chapter//"
       },
       "last_updated": "1623969510"
     },
@@ -19,9 +19,109 @@
       "title": "<chapter name>",
       "volume": "<volume number>",
       "groups": {
-        "Luna Scans TR": "/proxy/api/imgur/chapter/cTEkpz3/" 
+        "Luna Scans TR": "/proxy/api/imgur/chapter//" 
+      },
+      "last_updated": ""
+       }
+  }
+}
+
+
+{
+  "title": "Gorani Jeon",
+  "description": "“Benimle çiftleşir misin?” Dağın derinliklerinde, tarlasında pirinç şarabı yapan Bau adında güzel bir genç adam yaşarmış. Dağ Tanrısı'na iyi bir eş için dua eder. Ancak karşılığında aldığı tek şey, değerli tarlasını yok eden su geyiğinin izleri olur. Bir gün Bau, kırılmış bir şarap testisinin önünde bilinçsizce yatan koyu ve sert tenli, muazzam kaslara ve çıkıntılı sivri dişlere sahip büyüleyici bir adam bulur. O anda anlar: “Sonunda, Dağ Tanrısı bana iyi bir partner verdi! Hadi eve gidelim, eşim!",
+  "artist": "ChyChy",
+  "author": "ChyChy",
+  "cover": "https://64.media.tumblr.com/4688eef334d60744df879d9f024de0a7/9b488dc0644ade9c-64/s400x600/3fc0f60d07babbe9876070c9ece3cc34ee264a3c.jpg",
+  "chapters": {
+    "0": {
+      "title": "Tanıtım",
+      "volume": "<volume number>",
+      "groups": {
+        "Luna Scans TR": "/proxy/api/imgur/chapter/9OEcj8T/"
       },
       "last_updated": "1623969510"
-       }
+    },
+    "1": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "Greywords/VibhavM": "/proxy/api/imgur/chapter/cTEkpz3/"
+      },
+      "last_updated": "1623969510"
+    },
+    "134.3": {
+      "title": "Twist",
+      "volume": "1",
+      "groups": {
+        "Greywords/VibhavM": "/proxy/api/imgur/chapter/rseZzKT/"
+      },
+      "last_updated": "1601066186"
+    },
+    
+    "135": {
+      "title": "Discrace and Fundamentals",
+      "volume": "1",
+      "groups": {
+        "Greywords/VibhavM": "/proxy/api/imgur/chapter/QhQijGx/"
+      },
+      "last_updated": "1601583742"
+    },
+    "136": {
+      "title": "Indomitability",
+      "volume": "1",
+      "groups": {
+        "Greywords/VibhavM": "/proxy/api/imgur/chapter/S2fqt9O/"
+      },
+      "last_updated": "1606776324"
+    },
+    "137": {
+      "title": "Resonance",
+      "volume": "1",
+      "groups": {
+        "Greywords/VibhavM": "/proxy/api/imgur/chapter/mR8PMG1/"
+      },
+      "last_updated": "1608832911"
+    },
+    "138": {
+      "title": "Into the Abyss",
+      "volume": "1",
+      "groups": {
+        "Greywords/VibhavM": "/proxy/api/imgur/chapter/zZd2NhM/"
+      },
+      "last_updated": "1614715870"
+    },
+    "139": {
+      "title": "Abyss",
+      "volume": "1",
+      "groups": {
+        "Good Sir Scanlations": "/proxy/api/imgur/chapter/AIRPpma/"
+      },
+      "last_updated": "1611598395"
+    },
+    "140": {
+      "title": "Stones and Diamonds",
+      "volume": "1",
+      "groups": {
+        "Greywords/VibhavM": "/proxy/api/imgur/chapter/R34pCEd/"
+      },
+      "last_updated": "1614715870"
+    },
+    "142": {
+      "title": "Rejuvenated Offence",
+      "volume": "1",
+      "groups": {
+        "Greywords/VibhavM": "/proxy/api/imgur/chapter/81xD8rz/"
+      },
+      "last_updated": "1616444903"
+    },
+    "143": {
+      "title": "How to Behave",
+      "volume": "1",
+      "groups": {
+        "Greywords/VibhavM": "/proxy/api/imgur/chapter/oppTAIE/"
+      },
+      "last_updated": "1617382312"
+    }
   }
 }
