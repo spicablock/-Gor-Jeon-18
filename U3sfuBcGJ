@@ -135,12 +135,20 @@
       "last_updated": "1623969510"
          },
     "16": {
-      "title": "Bölüm - Gorani'den Önce",
+      "title": "Bölüm - Gorani'den Önce [2. Sezon]",
       "volume": "1",
       "groups": {
         "Luna Scans TR": "/proxy/api/imgur/chapter/MTuSDxe/"
       },
       "last_updated": "1623969510"
+         },
+    "17": {
+      "title": "Bölüm - Gorani'den Önce",
+      "volume": "1",
+      "groups": {
+        "Luna Scans TR": "/proxy/api/imgur/chapter/zc0t33z/"
+      },
+      "last_updated": "1630681121"
     }
   }
 }
